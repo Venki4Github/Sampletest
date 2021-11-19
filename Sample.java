@@ -4,6 +4,7 @@ class Sample
 	{
 		System.out.println ("welcome to the Git");
 		System.out.println ("welcome to the Git");
+		System.out.println ("welcome to the Git");
 	}
 }
 
