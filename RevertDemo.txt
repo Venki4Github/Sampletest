@@ -1,5 +1,2 @@
 tGit
 Github
-maven
-jenkins
-
