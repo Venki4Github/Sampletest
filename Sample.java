@@ -1,6 +1,6 @@
 class Sample
 {
-	Public static void main (Strings []args)
+	public static void main (String []args)
 	{
 		System.out.println ("welcome to the Git");
 		System.out.println ("welcome to the Git");
